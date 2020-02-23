@@ -50,7 +50,7 @@ yarn start
 ```
 ## :clipboard: Documentação
 
-Para acessar a documentação dessa API, [Clique aqui](https://app.swaggerhub.com/apis-docs/danielpadilha/1.0-Conceitos_NodeJS/1.0.0)
+Para acessar a documentação dessa API, [Clique aqui](https://gobarber.docs.apiary.io/)
 
 ## :memo: Licença
 
